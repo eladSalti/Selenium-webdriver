@@ -1,0 +1,9 @@
+tests/assets
+tests/.pytest_cache
+tests/report.html
+tests/geckodriver.log
+To_Do
+.gitattributes
+README
+.idea
+__pycache__
